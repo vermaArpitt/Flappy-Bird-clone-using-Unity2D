@@ -5,7 +5,7 @@ using UnityEngine;
 public class BirdScript : MonoBehaviour
 {
     public Rigidbody2D myRigidbody;
-    public float flapStrength = 10;
+    public float flapStrength = 14;
     // Start is called before the first frame update
     void Start()
     {
